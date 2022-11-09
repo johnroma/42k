@@ -1,0 +1,4909 @@
+{
+  "runs": [
+    {
+      "date": "05-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "06-12-2022",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "56 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "07-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "08-12-2022",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "59 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "3x100 m"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "09-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "10-12-2022",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "76 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "11-12-2022",
+      "training": {
+        "summary": {
+          "distance": "20 km",
+          "time": "110 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "20 km",
+              "runtime": "100-105 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "12-12-2022",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "31 min"
+        },
+        "details": {
+          "title": {
+            "field-ref-exercise-type": "Distans lätt"
+          },
+          "description": [
+            {
+              "label": "Distans:"
+            },
+            {
+              "distance": "6 km"
+            },
+            {
+              "label": "Tid:"
+            },
+            {
+              "runtime": "29-31 min"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "13-12-2022",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "56 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "training": {
+        "summary": {
+          "distance": "9 km",
+          "time": "52 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x100 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "Totalt 6,5-7 km",
+              "runtime": "10 x 3 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "16-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "17-12-2022",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "76 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "18-12-2022",
+      "training": {
+        "summary": {
+          "distance": "21 km",
+          "time": "115 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "21 km",
+              "runtime": "105-110 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "19-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "20-12-2022",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "60 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Marafartpasset",
+            "description": {
+              "distance": "8 km",
+              "runtime": "36-37 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "21-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "22-12-2022",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "61 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "Totalt ca 6,5-7 km",
+              "runtime": "6 x 5 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10-11 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "23-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "24-12-2022",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "72 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "12 km",
+              "runtime": "58-62 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "25-12-2022",
+      "training": {
+        "summary": {
+          "distance": "21 km",
+          "time": "113 min"
+        },
+        "details": [
+          {
+            "title": "Långpass med fartökning",
+            "description": {
+              "distance": "21 km",
+              "runtime": "103-108 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "26-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "27-12-2022",
+      "training": {
+        "summary": {
+          "distance": "9 km",
+          "time": "61 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "3x5x200 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "28-12-2022",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "29-12-2022",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "74 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "14-15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "3 x 2,3 km",
+              "runtime": "3 x 10 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "30-12-2022",
+      "training": {
+        "summary": {
+          "distance": "6 km",
+          "time": "32 min"
+        },
+        "details": {
+          "title": {
+            "field-ref-exercise-type": "Morgonjogg"
+          },
+          "description": [
+            {
+              "label": "Distans:"
+            },
+            {
+              "distance": "6 km"
+            },
+            {
+              "label": "Tid:"
+            },
+            {
+              "runtime": "29-32 min"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "31-12-2022",
+      "training": {
+        "summary": {
+          "distance": "6 km",
+          "time": "70 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "6 km",
+              "runtime": "30 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "01-1-2023",
+      "training": {
+        "summary": {
+          "distance": "22 km",
+          "time": "119 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "22 km",
+              "runtime": "110-114 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "02-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "03-1-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "56 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "04-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "05-1-2023",
+      "training": {
+        "summary": {
+          "distance": "13 km",
+          "time": "75 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "Totalt 7 km",
+              "runtime": "12-10-8 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "06-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "07-1-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "91 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "08-1-2023",
+      "training": {
+        "summary": {
+          "distance": "23 km",
+          "time": "125 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "23 km",
+              "runtime": "115-120 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "09-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "10-1-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "75 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "9-10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Fartlek",
+            "description": {
+              "distance": "7 km",
+              "runtime": "35-38 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "11-1-2023",
+      "training": {
+        "summary": {
+          "distance": "6 km",
+          "time": "35 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "6 km",
+              "runtime": "29-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "12-1-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "70 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Marafartpasset",
+            "description": {
+              "distance": "10 km",
+              "runtime": "46-47 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5-6 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "13-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "14-1-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "65 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "23-25 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "15-1-2023",
+      "training": {
+        "summary": {
+          "distance": "23 km",
+          "time": "129 min"
+        },
+        "details": [
+          {
+            "title": "Långpass tröskel",
+            "description": {
+              "distance": "23 km"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "16-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "17-1-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "81 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "2x10x300 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "18-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "19-1-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "63 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "7 km",
+              "runtime": "31 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10-11 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "20-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "21-1-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "81 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "22-1-2023",
+      "training": {
+        "summary": {
+          "distance": "24 km",
+          "time": "136 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "24 km",
+              "runtime": "120-126 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "23-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "24-1-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "70 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "9-10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "3 x 2,3 km",
+              "runtime": "3 x 10 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "25-1-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "76 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "26-1-2023",
+      "training": {
+        "summary": {
+          "distance": "9 km",
+          "time": "66 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "15x200 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "27-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "28-1-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "51 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "29-1-2023",
+      "training": {
+        "summary": {
+          "distance": "25 km",
+          "time": "141 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "25 km",
+              "runtime": "125-131 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "30-1-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "31-1-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "103 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "12 km",
+              "runtime": "58-63 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "01-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "02-2-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "84 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall stege",
+            "description": {
+              "distance": "Totalt ca 6 km",
+              "runtime": "4 x 3-2-1 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "03-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "04-2-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "66 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "05-2-2023",
+      "training": {
+        "summary": {
+          "distance": "25 km",
+          "time": "138 min"
+        },
+        "details": [
+          {
+            "title": "Långpass med fartökning",
+            "description": {
+              "distance": "25 km",
+              "runtime": "122-128 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "06-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "07-2-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "70 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "9-10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "Runt 7 km",
+              "runtime": "3 x 10 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "08-2-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "76 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "09-2-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "80 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10-11 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall stege",
+            "description": {
+              "distance": "Totalt ca 7 km",
+              "runtime": "2 x 5-4-3-2-1 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "11-12 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "10-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "11-2-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "81 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "12-2-2023",
+      "training": {
+        "summary": {
+          "distance": "26 km",
+          "time": "146 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "26 km",
+              "runtime": "130-136 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "13-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "14-2-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "69 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Marafartpasset",
+            "description": {
+              "distance": "10 km",
+              "runtime": "45-46 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5-6 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "15-2-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "86 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "16-2-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "71 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "1x30 m"
+            }
+          },
+          {
+            "title": "Backlöpning lång backe",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "17-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "18-2-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "51 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "19-2-2023",
+      "training": {
+        "summary": {
+          "distance": "27 km",
+          "time": "152 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "27 km",
+              "runtime": "135-142 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "20-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "21-2-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "68 min"
+        },
+        "details": [
+          {
+            "title": "Distans stegrad fart",
+            "description": {
+              "distance": "10 km",
+              "runtime": "44-47 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "5x100/100m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5-6 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "22-2-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "86 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "8 km",
+              "runtime": "38-41 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "23-2-2023",
+      "training": {
+        "summary": {
+          "distance": "10,60 km",
+          "time": "68 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "9-10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "1x30 m"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1 x 80 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "2 x 2,3 km",
+              "runtime": "2 x 10 min"
+            }
+          },
+          {
+            "title": "Backlöpning lång backe",
+            "description": {
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "24-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "25-2-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "51 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "26-2-2023",
+      "training": {
+        "summary": {
+          "distance": "27 km",
+          "time": "150 min"
+        },
+        "details": [
+          {
+            "title": "Långpass tröskel",
+            "description": {
+              "distance": "27 km",
+              "runtime": "Runt 135 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "27-2-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "28-2-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "71 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "1x30 m"
+            }
+          },
+          {
+            "title": "Backlöpning lång backe",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "01-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "02-3-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "72 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "20x200 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "03-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "04-3-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "71 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "05-3-2023",
+      "training": {
+        "summary": {
+          "distance": "28 km",
+          "time": "157 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "28 km",
+              "runtime": "140-147 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "06-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "07-3-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "107 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "12 km",
+              "runtime": "60-62"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "08-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "09-3-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "81 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x30 m"
+            }
+          },
+          {
+            "title": "Backlöpning lång backe",
+            "description": {
+              "distance": "5 km",
+              "runtime": "25 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "10-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "11-3-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "51 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "12-3-2023",
+      "training": {
+        "summary": {
+          "distance": "29 km",
+          "time": "152 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "29 km",
+              "runtime": "145-147 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "13-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "14-3-2023",
+      "training": {
+        "summary": {
+          "distance": "14 km",
+          "time": "80 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "14 km",
+              "runtime": "70 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "15-3-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "87 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "40-42 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "16-3-2023",
+      "training": {
+        "summary": {
+          "distance": "12,50 km",
+          "time": "88 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2,5 km",
+              "runtime": "12-13 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x20 m"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x100 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "8x1 km"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "17-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "18-3-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "71 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "19-3-2023",
+      "training": {
+        "summary": {
+          "distance": "29 km",
+          "time": "155 min"
+        },
+        "details": [
+          {
+            "title": "Långpass med fartökning",
+            "description": {
+              "distance": "29 km",
+              "runtime": "142-145 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "20-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "21-3-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "58 min"
+        },
+        "details": [
+          {
+            "title": "Distans stegrad fart",
+            "description": {
+              "distance": "10 km",
+              "runtime": "44-47 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5-6 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "22-3-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "76 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "6 km",
+              "runtime": "30-31 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "23-3-2023",
+      "training": {
+        "summary": {
+          "distance": "9 km",
+          "time": "78 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2,5 km",
+              "runtime": "12-13 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x20 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "2 x 10 x 200 m",
+
+              "runtime": "2 x 10 x 40-42 s"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2,5 km",
+              "runtime": "12-13 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "24-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "25-3-2023",
+      "training": {
+        "summary": {
+          "distance": "15 km",
+          "time": "88 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Snabbdistans",
+            "description": {
+              "distance": "10 km",
+              "runtime": "42-44 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10-11 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "26-3-2023",
+      "training": {
+        "summary": {
+          "distance": "25 km",
+          "time": "139 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "25 km",
+              "runtime": "125-129 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "27-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "28-3-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "65 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "12 km",
+              "runtime": "60 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "29-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "30-3-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "76 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x20 m"
+            }
+          },
+          {
+            "title": "Backlöpning kort backe",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "31-3-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "01-4-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "67 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "40-42 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "02-4-2023",
+      "training": {
+        "summary": {
+          "distance": "31 km",
+          "time": "168 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "31 km",
+              "runtime": "155-163 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "03-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "04-4-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "106 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "5x100m/100m"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "05-4-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "72 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "12 km",
+              "runtime": "58-62 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "06-4-2023",
+      "training": {
+        "summary": {
+          "distance": "13 km",
+          "time": "96 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x30 m"
+            }
+          },
+          {
+            "title": "Intervaller lång",
+            "description": {
+              "distance": "3 x (2x780 m)",
+              "runtime": "3 x (2x3 min)"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "3 x (4 x 200 m)",
+              "runtime": "3 x (4 x 40 sekunder)"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "07-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "08-4-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "67 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "8 km",
+              "runtime": "40-42 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "09-4-2023",
+      "training": {
+        "summary": {
+          "distance": "30 km",
+          "time": "163 min"
+        },
+        "details": [
+          {
+            "title": "Långpass med fartökning",
+            "description": {
+              "distance": "30 km",
+              "runtime": "148-153 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "10-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "11-4-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "74 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x30 m"
+            }
+          },
+          {
+            "title": "Backlöpning kort backe",
+            "description": {
+              "distance": "10x100 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "12-4-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "96 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "13-4-2023",
+      "training": {
+        "summary": {
+          "distance": "13 km",
+          "time": "77 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Snabbdistans",
+            "description": {
+              "distance": "8 km",
+              "runtime": "33-34 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10-11 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "14-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "15-4-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "51 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "16-4-2023",
+      "training": {
+        "summary": {
+          "distance": "32 km",
+          "time": "175 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "32 km",
+              "runtime": "160-165 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "17-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "18-4-2023",
+      "training": {
+        "summary": {
+          "distance": "13 km",
+          "time": "83 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "9-10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "4x10 min",
+              "runtime": "46 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "19-4-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "96 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "20-4-2023",
+      "training": {
+        "summary": {
+          "distance": "12 km",
+          "time": "91 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x30 m"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall stege",
+            "description": {
+              "distance": "Totalt ca 6,5 km",
+              "runtime": "2 x 2x3 min- 2 x 2 min - 2 x 1 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2,5 km",
+              "runtime": "13 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "21-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "22-4-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "31 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "23-4-2023",
+      "training": {
+        "summary": {
+          "distance": "27 km",
+          "time": "145 min"
+        },
+        "details": [
+          {
+            "title": "Långpass tröskel",
+            "description": {
+              "distance": "27 km",
+              "runtime": "Runt 135 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "24-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "25-4-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "100 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "50-55 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "26-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "27-4-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "77 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x30 m"
+            }
+          },
+          {
+            "title": "Backlöpning",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20-22 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "28-4-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "26 min"
+        },
+        "details": {
+          "title": {
+            "field-ref-exercise-type": "Morgonjogg"
+          },
+          "description": [
+            {
+              "label": "Distans:"
+            },
+            {
+              "distance": "5 km"
+            },
+            {
+              "label": "Tid:"
+            },
+            {
+              "runtime": "25-26 min"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "29-4-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "30-4-2023",
+      "training": {
+        "summary": {
+          "distance": "34 km",
+          "time": "188 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "34 km",
+              "runtime": "170-178 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "01-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "02-5-2023",
+      "training": {
+        "summary": {
+          "distance": "16 km",
+          "time": "88 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Marafartpasset",
+            "description": {
+              "distance": "14 km",
+              "runtime": "64-65 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5-6 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "03-5-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "96 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "04-5-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "75 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "14-15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "4x5x200 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "05-5-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "53 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "8 km",
+              "runtime": "40-43 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "06-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "07-5-2023",
+      "training": {
+        "summary": {
+          "distance": "29 km",
+          "time": "155 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "29 km",
+              "runtime": "Runt 145 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "08-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "09-5-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "100 min"
+        },
+        "details": [
+          {
+            "title": "Kuperad distanslöpning",
+            "description": {
+              "distance": "10 km",
+              "runtime": "50-55 min"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "10-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "11-5-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "98 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x30 m"
+            }
+          },
+          {
+            "title": "Backlöpning kort backe",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20-22 min"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "runtime": "5 x 5 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "12-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "13-5-2023",
+      "training": {
+        "summary": {
+          "distance": "4 km",
+          "time": "29 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20-21 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "14-5-2023",
+      "training": {
+        "summary": {
+          "distance": "37 km",
+          "time": "205 min"
+        },
+        "details": [
+          {
+            "title": "Långpass lätt fart",
+            "description": {
+              "distance": "37 km",
+              "runtime": "185-195 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "15-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "16-5-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "116 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "10 km",
+              "runtime": "48-51 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "2x30 m"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "5x100/100 m"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "15-30 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10-15 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "17-5-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "52 min"
+        },
+        "details": {
+          "title": {
+            "field-ref-exercise-type": "Morgonjogg"
+          },
+          "description": [
+            {
+              "label": "Distans:"
+            },
+            {
+              "distance": "10 km"
+            },
+            {
+              "label": "Tid:"
+            },
+            {
+              "runtime": "49-52 min"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "18-5-2023",
+      "training": {
+        "summary": {
+          "distance": "14 km",
+          "time": "82 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Snabbdistans",
+            "description": {
+              "distance": "10 km",
+              "runtime": "42-43 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10-11 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "19-5-2023",
+      "training": {
+        "summary": {
+          "distance": "4 km",
+          "time": "29 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20-21 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "20-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "21-5-2023",
+      "training": {
+        "summary": {
+          "distance": "27 km",
+          "time": "150 min"
+        },
+        "details": [
+          {
+            "title": "Långpass med fartökning",
+            "description": {
+              "distance": "27 km",
+              "runtime": "132-140 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "22-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "23-5-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "57 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Marafartpasset",
+            "description": {
+              "distance": "8 km",
+              "runtime": "36-37 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "1 km",
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "24-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "25-5-2023",
+      "training": {
+        "summary": {
+          "distance": "10 km",
+          "time": "75 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "5x4x200 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "26-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "27-5-2023",
+      "training": {
+        "summary": {
+          "distance": "5 km",
+          "time": "54 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "5 km",
+              "runtime": "24-26 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Löparstyrka",
+            "description": {
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Dynamisk stretch",
+            "description": {
+              "runtime": "10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "28-5-2023",
+      "training": {
+        "summary": {
+          "distance": "11 km",
+          "time": "74 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "4 km",
+              "runtime": "20 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Löpskolning",
+            "description": {
+              "distance": "1x30 m"
+            }
+          },
+          {
+            "title": "Backlöpning kort backe",
+            "description": {
+              "distance": "10x100 m"
+            }
+          },
+          {
+            "title": "Tröskelpass",
+            "description": {
+              "distance": "2 x 1,5 km",
+              "runtime": "2 x 6,5 min"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2 km",
+              "runtime": "10 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "29-5-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": [{ "title": "vila" }]
+      }
+    },
+    {
+      "date": "30-5-2023",
+      "training": {
+        "summary": {
+          "distance": "8 km",
+          "time": "62 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "2x80 m"
+            }
+          },
+          {
+            "title": "Intervall kort",
+            "description": {
+              "distance": "8x300 m"
+            }
+          },
+          {
+            "title": "Nedjogg",
+            "description": {
+              "distance": "2,5 km",
+              "runtime": "13 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5-10 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "31-5-2023",
+      "training": {
+        "summary": {
+          "distance": "13 km",
+          "time": "73 min"
+        },
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "13 km",
+              "runtime": "64-68 min"
+            }
+          },
+          {
+            "title": "Stretching",
+            "description": {
+              "runtime": "5 min"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "01-6-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    },
+    {
+      "date": "02-6-2023",
+      "training": {
+        "summary": {
+          "distance": "3 km",
+          "time": "23 min"
+        },
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "3 km",
+              "runtime": "15-16 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "03-6-2023",
+      "training": {
+        "summary": {
+          "distance": "44 km",
+          "time": "213 min"
+        },
+        "details": [
+          {
+            "title": "Uppvärmning",
+            "description": {
+              "distance": "1-2 km",
+              "runtime": "5-11 min"
+            }
+          },
+          {
+            "title": "Dynamisk rörlighet",
+            "description": {
+              "runtime": "5 min"
+            }
+          },
+          {
+            "title": "Koordinationslopp",
+            "description": {
+              "distance": "1x80 m"
+            }
+          },
+          {
+            "title": "Tävling",
+            "description": {
+              "distance": "42,2 km",
+              "runtime": "3.15"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "04-6-2023",
+      "training": {
+        "summary": {
+          "distance": "0 km",
+          "time": "0 min"
+        },
+        "details": {
+          "title": "vila"
+        }
+      }
+    }
+  ]
+}

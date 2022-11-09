@@ -1,24 +1,35 @@
 ---
-// Component Imports
-import Button from '../components/Button.astro';
+import Button from "../components/Button.astro";
 
-// Full Astro Component Syntax:
-// https://docs.astro.build/core-concepts/astro-components/
+const runsData = await import(`../data/runs.json`);
+
+interface Run {
+  date: string;
+  training: { summary: { distance: string; time: string } };
+}
+const runs: Run[] = runsData.runs;
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro + TailwindCSS</title>
-	</head>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>42K</title>
+  </head>
 
-	<body>
-		<div class="grid place-items-center h-screen content-center">
-			<Button>Tailwind Button in Astro!</Button>
-			<a href="/markdown-page" class="p-4 underline">Markdown is also supported...</a>
-		</div>
-	</body>
+  <body>
+    <main class="grid ml-10">
+      <ul class="list-disc list-inside">
+        {
+          runs.map((itm: Run, index: number) => (
+            <li>
+              Day {index + 1}: {itm.training.summary.distance}
+            </li>
+          ))
+        }
+      </ul>
+    </main>
+  </body>
 </html>
