@@ -7,9 +7,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -43,9 +45,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -85,9 +89,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -151,25 +157,15 @@
           "distance": "8 km",
           "time": "31 min"
         },
-        "details": {
-          "title": {
-            "field-ref-exercise-type": "Distans lätt"
-          },
-          "description": [
-            {
-              "label": "Distans:"
-            },
-            {
-              "distance": "6 km"
-            },
-            {
-              "label": "Tid:"
-            },
-            {
+        "details": [
+          {
+            "title": "Distans lätt",
+            "description": {
+              "distance": "6 km",
               "runtime": "29-31 min"
             }
-          ]
-        }
+          }
+        ]
       }
     },
     {
@@ -203,9 +199,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -259,9 +257,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -325,9 +325,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -387,9 +389,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -443,9 +447,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -503,9 +509,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -558,9 +566,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -620,25 +630,15 @@
           "distance": "6 km",
           "time": "32 min"
         },
-        "details": {
-          "title": {
-            "field-ref-exercise-type": "Morgonjogg"
-          },
-          "description": [
-            {
-              "label": "Distans:"
-            },
-            {
-              "distance": "6 km"
-            },
-            {
-              "label": "Tid:"
-            },
-            {
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "6 km",
               "runtime": "29-32 min"
             }
-          ]
-        }
+          }
+        ]
       }
     },
     {
@@ -702,9 +702,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -738,9 +740,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -800,9 +804,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -866,9 +872,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1002,9 +1010,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1067,9 +1077,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1128,9 +1140,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1190,9 +1204,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1256,9 +1272,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1397,9 +1415,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1457,9 +1477,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1499,9 +1521,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1561,9 +1585,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1627,9 +1653,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1769,9 +1797,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1835,9 +1865,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -1977,9 +2009,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2043,9 +2077,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2184,9 +2220,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2250,9 +2288,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2312,9 +2352,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2373,9 +2415,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2439,9 +2483,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2481,9 +2527,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2543,9 +2591,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2609,9 +2659,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2730,9 +2782,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2796,9 +2850,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -2920,9 +2976,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3006,9 +3064,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3042,9 +3102,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3104,9 +3166,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3170,9 +3234,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3299,9 +3365,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3365,9 +3433,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3506,9 +3576,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3572,9 +3644,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3720,9 +3794,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3780,9 +3856,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3822,9 +3900,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3884,25 +3964,15 @@
           "distance": "5 km",
           "time": "26 min"
         },
-        "details": {
-          "title": {
-            "field-ref-exercise-type": "Morgonjogg"
-          },
-          "description": [
-            {
-              "label": "Distans:"
-            },
-            {
-              "distance": "5 km"
-            },
-            {
-              "label": "Tid:"
-            },
-            {
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "5 km",
               "runtime": "25-26 min"
             }
-          ]
-        }
+          }
+        ]
       }
     },
     {
@@ -3912,9 +3982,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -3948,9 +4020,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4113,9 +4187,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4149,9 +4225,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4191,9 +4269,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4253,9 +4333,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4319,9 +4401,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4373,25 +4457,15 @@
           "distance": "10 km",
           "time": "52 min"
         },
-        "details": {
-          "title": {
-            "field-ref-exercise-type": "Morgonjogg"
-          },
-          "description": [
-            {
-              "label": "Distans:"
-            },
-            {
-              "distance": "10 km"
-            },
-            {
-              "label": "Tid:"
-            },
-            {
+        "details": [
+          {
+            "title": "Morgonjogg",
+            "description": {
+              "distance": "10 km",
               "runtime": "49-52 min"
             }
-          ]
-        }
+          }
+        ]
       }
     },
     {
@@ -4481,9 +4555,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4517,9 +4593,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4567,9 +4645,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4628,9 +4708,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4821,9 +4903,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     },
     {
@@ -4900,9 +4984,11 @@
           "distance": "0 km",
           "time": "0 min"
         },
-        "details": {
-          "title": "vila"
-        }
+        "details": [
+          {
+            "title": "vila"
+          }
+        ]
       }
     }
   ]

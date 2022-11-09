@@ -1,11 +1,17 @@
 ---
-import Button from "../components/Button.astro";
+import Run from "../components/Run.astro";
 
 const runsData = await import(`../data/runs.json`);
 
 interface Run {
   date: string;
-  training: { summary: { distance: string; time: string } };
+  training: {
+    summary: { distance: string; time: string };
+    details: {
+      title: string;
+      description?: {};
+    }[];
+  };
 }
 const runs: Run[] = runsData.runs;
 ---
@@ -20,12 +26,17 @@ const runs: Run[] = runsData.runs;
   </head>
 
   <body>
-    <main class="grid ml-10">
+    <main class="grid ml-10 mr-10">
       <ul class="list-disc list-inside">
         {
           runs.map((itm: Run, index: number) => (
-            <li>
+            <li class="my-4">
               Day {index + 1}: {itm.training.summary.distance}
+              {itm.training.details.map(
+                (detail: { title: string; description?: {} }) => (
+                  <Run title={detail.title} desc={detail.description} />
+                )
+              )}
             </li>
           ))
         }
