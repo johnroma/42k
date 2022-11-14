@@ -1,7 +1,7 @@
 ---
 import Run from "../components/Run.astro";
 
-const runsData = await import(`../data/runs.json`);
+const runsData = await import(`../data/21.json`);
 
 interface Run {
   date: string;
@@ -22,7 +22,7 @@ const runs: Run[] = runsData.runs;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>42K</title>
+    <title>21K</title>
   </head>
 
   <body>
