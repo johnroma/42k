@@ -1,7 +1,7 @@
 {
   "runs": [
     {
-      "date": "x",
+      "date": "done",
       "training": {
         "summary": {
           "distance": "0 km",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "date": "x",
+      "date": "done",
       "training": {
         "summary": {
           "distance": "6 km",

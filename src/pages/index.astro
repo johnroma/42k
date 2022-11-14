@@ -34,7 +34,11 @@ const runs: Run[] = runsData.runs;
               Day {index + 1}: {itm.training.summary.distance}
               {itm.training.details.map(
                 (detail: { title: string; description?: {} }) => (
-                  <Run title={detail.title} desc={detail.description} />
+                  <Run
+                    title={detail.title}
+                    desc={detail.description}
+                    done={itm.date}
+                  />
                 )
               )}
             </li>
